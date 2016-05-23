@@ -436,6 +436,12 @@ section.featured {
 	color: #fdfdfd;
 }
 
+section.featured2 {
+	padding: 60px 0 40px;
+	background: #70B9B0;
+	color: #fdfdfd;
+}
+
 section.featured h2.slogan {
 	color: #fff;
 	font-size: 48px;
